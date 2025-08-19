@@ -76,16 +76,6 @@ gaming rewards.
 – Marketing & growth: supports community building, cross‑chain
 expansion and brand awareness.
 
-
-📂 Project structure
-
-├── AIRefugeeTokenEnhanced.sol   # main contract with DAO and upgradeability
-├── LICENSE                      # MIT open source licence
-├── README.md                    
-└── README_ZH.md                 
-
-
-
 🔧 Deployment and verification
 
 The contract is deployed on the BSC mainnet at 0xCDE96Ce64B88Acf50aCeCa4E87c2EC85c74ee190 and is verified on
@@ -93,7 +83,7 @@ BscScan. BscScan lists the contract as having 18 decimals and a maximum total su
 Anyone can view the source code, transaction history and token holders on BscScan.
 https://bscscan.com/address/0xCDE96Ce64B88Acf50aCeCa4E87c2EC85c74ee190
 
-Adding AIREF to a wallet:
+🍕 Adding AIREF to a wallet:
 
 Open your MetaMask or TrustWallet and select “Add Token / Custom Token.”
 
@@ -106,7 +96,7 @@ The token symbol AIREF and 18 decimals should auto‑populate.
 
 Confirm to save and begin receiving AIREF.
 
-Acquiring AIREF
+💕 Acquiring AIREF
 
 • Community airdrops & events – follow the official Twitter,
 Discord and Telegram for giveaways and competitions.
