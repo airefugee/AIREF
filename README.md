@@ -127,7 +127,7 @@ community events and outreach.
 
 🌍 Community
 
-• Website: airefugee.com
+• Website: https://airefugee.com
 
 • Twitter: https://x.com/AIRefugeeCoin
 
